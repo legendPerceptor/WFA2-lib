@@ -85,7 +85,7 @@
 #define STAR '*'
 #define DOT '.'
 #define COMA ','
-#define SEMICOLON ';'
+// #define SEMICOLON ';'
 #define COLON ':'
 #define HASH '#'
 #define UNDERSCORE '_'
